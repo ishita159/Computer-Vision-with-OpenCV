@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: Tinkerer
+Version: 1.7.2
+Summary: Sphinx-based blogging engine
+Home-page: http://tinkerer.me/
+Author: Vlad Riscutia
+Author-email: riscutiavlad@gmail.com
+License: FreeBSD
+Download-URL: http://pypi.python.org/pypi/Tinkerer
+Description: 
+        Tinkerer is a blogging engine/static website generator powered by Sphinx.
+        
+        It allows blogging in reStructuredText format, comes with out-of-the-box
+        support for post publishing dates, authors, categories, tags, post archive,
+        RSS feed generation, comments powered by Disqus and more.
+        
+        Tinkerer is also highly customizable through Sphinx extensions.
+        
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Communications
+Classifier: Topic :: Internet
